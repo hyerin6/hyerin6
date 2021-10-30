@@ -3,10 +3,10 @@ Hi, I'm Hyerin!
 I wanna be a good developer.        
 
 
-#### Study     
+#### Develop     
 
 [🏃🏻‍♀️ &nbsp; Today I Learned](https://github.com/hyerin6/TIL)   
-[🛠 &nbsp; Hyerin Tech Blog](https://hyerin6.github.io/)
+[🧑🏻‍🌾 &nbsp; Hyerin Tech Blog](https://hyerin6.github.io/)
 
 
 #### Get in touch  
