@@ -4,8 +4,11 @@ I wanna be a good developer.
 
 
 #### Develop     
-[🏃🏻‍♀️ &nbsp; Today I Learned](https://github.com/hyerin6/TIL)   
-[🧑🏻‍🌾 &nbsp; Tech Blog](https://hyerin6.github.io/)
+* <a href="https://github.com/hyerin6/TIL">
+    <img src="https://img.shields.io/badge/-Today I Learned.-lightyellow?style=flat-square&link="https://blog.naver.com/hyerin_0611"/></a>&nbsp
+                                                                                                                                    
+* <a href="https://hyerin6.github.io/">
+    <img src="https://img.shields.io/badge/-Tech Blog-lightyellow?style=flat-square&link="https://hyerin6.github.io/"/></a>&nbsp
 
 
 #### Get in touch  
