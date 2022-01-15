@@ -1,7 +1,4 @@
 ### Wellcome 😇    
-Hi, I'm Hyerin!                
-I wanna be a good developer.        
-
 
 #### Develop     
 * <a href="https://github.com/hyerin6/TIL">
