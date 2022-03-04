@@ -1,11 +1,8 @@
 ### Wellcome 😇    
 
-#### Develop     
-<a href="https://github.com/hyerin6/TIL">
-    <img src="https://img.shields.io/badge/-Today I Learned.-black?logo=Github&logoColor=white&link="https://blog.naver.com/hyerin_0611"/></a>&nbsp
-                                                                                                                                    
+#### Blog                                                                                                             
 <a href="https://hyerin6.github.io/">
-    <img src="https://img.shields.io/badge/-Tech Blog-black?logo=GitHub-Pages&logoColor=white&link="https://hyerin6.github.io/"/></a>&nbsp
+    <img src="https://img.shields.io/badge/-Tech Blog-black?link="https://hyerin6.github.io/"/></a>&nbsp
 
 
 #### Get in touch    
