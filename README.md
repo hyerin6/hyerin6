@@ -15,5 +15,5 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?logo=Gmail&style=flat-square&logoColor=white&link=dev.hyerin@gmail.com"/></a>
 <a href="https://blog.naver.com/hyerin_0611">
     <img src="https://img.shields.io/badge/Blog-00C43B?logo=Naver&style=flat-square&logoColor=white"/></a> 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyerin6&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
