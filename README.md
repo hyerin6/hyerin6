@@ -4,8 +4,7 @@
 
 
 #### Blog     
-    
-<a href="https://hyerin6.github.io/"><img src="https://img.shields.io/badge/-Tech%20Blog-black?&style=square&link=%22https://hyerin6.github.io/"/></a>    
+<a href="https://hyerin6.github.io/"><img src="https://img.shields.io/badge/-Tech%20Blog-black?&style=social&logo=github&link=%22https://hyerin6.github.io/"/></a> ꕀ .* •. ✍🏻    
     
     
 #### Get in touch    
