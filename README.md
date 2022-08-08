@@ -22,8 +22,11 @@
     <img src="https://img.shields.io/badge/twitter-1DA1F2?style=square&logo=twitter&logoColor=white&link=https://twitter.com/dev_hyerin"/></a> 
     
 <a href="https://github.com/hannapk">
-    <img src="https://img.shields.io/badge/work%20account-black?style=square&logo=github&logoColor=white&link=https://github.com/hannapk"/></a> 
+    <img src="https://img.shields.io/badge/hanna-black?style=square&logo=github&logoColor=white&link=https://github.com/hannapk"/></a> 
     
+<a href="https://www.linkedin.com/in/hyerin6/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/hyerin6/"/></a> 
+            
     
     
 #### Today    
